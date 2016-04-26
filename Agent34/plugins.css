@@ -1,0 +1,147 @@
+.exconsole, .console, .starterConsole {background: #333333}
+.cCell {color: black}
+
+#meter-disk-value {  float: left;  border: 1px inset #1b1b1b;  border-bottom: none;  background: #96CE00 url(./images/headers.png) repeat-x 0px -138px; }
+#meter-disk-text {  color:#fff; text-shadow:0px 0px 2px #000; position: relative;  text-align: left;  float: left;  margin-top: 2px; width: 0px;  height: 0px;  overflow: visible;  left: 40%;  font-size: 11px;  font-family:inherit;  z-index: 1;  }
+#meter-disk-holder {  width: 100px;  height: 16px;  line-height: 16px;  border-right: none;  padding-left: 25px; margin-left: 0px;  background: url(./images/status_icons.png) no-repeat 3px -336px }
+#meter-disk-td {  background: url(./images/hd.png) 5px no-repeat; }
+#qmeter-disk-value {  float: left;  border: 1px inset #1b1b1b;  border-bottom: none;  background: #EBE2D2 url(./images/headers.png) repeat-x 0px -138px; }
+#qmeter-disk-text {  color:#fff; text-shadow:0px 0px 2px #000; position: relative;  text-align: left;  float: left;  width: 0px;  height: 0px;  overflow: visible;  left: 40%;  font-size: 11px;  font-family:inherit; z-index: 1; }
+#qmeter-disk-holder {  width: 100px;  height: 16px;  line-height: 16px;  border-right: none;  padding-left: 25px; margin-left: 0px;  background: url(./images/status_icons.png) no-repeat 3px -336px; }
+#qmeter-disk-td { background: url(./images/hd.png) 5px no-repeat; }
+
+
+#meter-cpu-text {  position: absolute;  left: 65px;  top: 0px; color:#fff; text-shadow:0px 0px 2px #000; font-size: 11px;  font-family: inherit; }
+#meter-cpu-holder {  width: 100px;  height: 16px;  line-height: 16px;  border-right: none;  margin-left: 0px; padding-left: 25px; background: url(./images/status_icons.png) no-repeat 3px -320px; }
+#meter-cpu-td {}
+
+div.graph_tab { color:#425443; border-color: #425443; }
+
+/* Dialogue Headers */
+div#tchat div.dlg-header, div#chatSmileys div.dlg-header  {background-image: url(./images/dlg-header.png); background-position: 0px -252px; border-bottom: none; padding-right: 4px;text-shadow:0px -1px 0px #000;overflow: auto;}
+div#chat {background: url(./images/toolbar.png) no-repeat -312px center;}
+div#tcreate div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -84px; margin-top: -1px;border-bottom: none;text-shadow:0px -1px 0px #000;overflow: auto;}
+div#tconsole div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -84px; margin-top: -1px;border-bottom: none;text-shadow:0px -1px 0px #000;overflow: auto;}
+div#dlgLoadTorrents div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -56px; border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#dlg_datadir div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -308px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#tegLoadTorrents div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -56px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#logoffDlg div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -364px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#dlg_info div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -392px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: hidden;}
+div#dlg_info {width: 600px; height: 450px; overflow: hidden;}
+div#tedit div.dlg-header,div#dlgEditRules-header, div#dlgEditRules div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -308px;border-bottom: none;text-shadow:0px -1px 0px #000;}
+div#dlgAddRSS-header, div#dlgAddRSS div.dlg-header, div#dlgEditRSS div.dlg-header,div#dlgEditFilters div.dlg-header, div#dlgEditFilters div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -112px;	margin-top: -1px;	border-bottom: none;text-shadow:0px -1px 0px #000;overflow: auto;	}
+#dlgAddRSSGroup div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -112px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#dlg_unpack div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -168px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+div#dlg_nfo div.dlg-header {background-image: url(./images/dlg-header.png); background-position: 0px -196px;border-bottom: none;padding-right: 4px;text-shadow:0px -1px 0px #000;}
+div#dlg_nfo nfo_text {font-size: 12px;font-family: Mahngiel;}
+div#CatList ul li.RSSGroup {background-image: url(../../images/tstatus.png); background-position: 4px -239px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto;}
+#rsstimer { float: right;font-family: Optimus; font-weight: normal; margin-right: -18px;border-bottom: none; padding-right: 4px; text-shadow:0px -1px 0px #000;overflow: auto; }
+div#dlgAddRSS, div#tcreate {overflow: hidden;}
+.lf li input.TextboxFocus { background-color: transparent; color: #009DDD }
+div#t div#rssurlrewrite {background: transparent url(./images/toolbar.png) no-repeat -217px 0px;}
+div#t div#rssurlrewrite:hover {background: transparent url(./images/toolbar.png) no-repeat -217px 0px;}
+
+
+
+
+#autodl-tb { background: transparent url(./images/autodll-irc1.png) no-repeat center; }
+#autodl-tb:hover  {background: transparent url(./images/autodll-irc2.png) no-repeat center; }
+#autodl-multiselect-header {background-image: url("./images/dlg-autodl-irc.gif");}
+
+.shieven {background: #DED5C5; }
+.shiodd {background: #EBE2D2; }
+
+div#webuiUpdateToggle.pause {	background: transparent url(./images/pauseui.png) no-repeat;}
+div#webuiUpdateToggle.pause:hover {	background: transparent url(./images/pauseuih.png) no-repeat;}
+div#webuiUpdateToggle.resume {	background: transparent url(./images/playui.png) no-repeat;}
+div#webuiUpdateToggle.resume:hover {	background: transparent url(./images/playuih.png) no-repeat;}
+div#webuiRefresh {	background: transparent url(./images/refreshui.png) no-repeat;}
+div#webuiRefresh:hover{	background: transparent url(./images/refreshuih.png) no-repeat;}
+
+/*CHUNKS*/
+#tEM {    padding position: absol visibility: hidden; }
+
+#Chunks { border: none; width: 100%; height: 98%; margin-top: 0.2em; font-family: inherit; text-shadow:0px -1px 0px #000; font-size: 80%; overflow: auto;}
+.tChunks { width: 100%; empty-cells: hide; margin-left: auto; margin-right: auto; border-collapse: separate;}
+.tHeader {    font-size: .9em;    padding-top: 0.5em;    padding-bottom: 0.5em;}
+.cCell { text-align: center; color:#333; padding-top: 0.3em; padding-bottom: 0.3em;}
+
+.Cell0 {
+    background-color: #FFFDF0;
+    border: 1px dashed;
+}
+
+.Cell1 {
+    background-color: #7EB400;
+}
+
+.Cell2 {
+    background-color: #75A602;
+}
+
+.Cell3 {
+    background-color: #6D9A02;
+}
+
+.Cell4 {
+    background-color: #628C02;
+}
+
+.Cell5 {
+    background-color: #5B8101;
+}
+
+.Cell6 {
+    background-color: #527501;
+}
+
+.Cell7 {
+    background-color: #4A6801;
+}
+
+.Cell8 {
+    background-color: #435F01;
+}
+
+.Cell9 {
+    background-color: #3B5401;
+}
+
+.CellA {
+    background-color: #C1C3C3;
+}
+
+.CellB {
+    background-color: #999A9A;
+}
+
+.CellC {
+    background-color: #DED5C5;
+    border-style: 1px dashed #556E59;
+}
+
+.CellD {
+    background-color: #6B6C6B;
+}
+
+.CellE {
+    background-color: #60605E;
+}
+
+.CellF {
+    background-color: #556E59;
+    color:#fff;
+}
+
+#tCellNotSupported {
+    text-align: center;
+}
+
+#tRowNotSupported {
+    vertical-align: middle;
+    color: red;
+}
+
+
+#maillayout #letterform table tr td {background: #181818 }
+#maillayout #replyform table tr td {background: #181818 }
