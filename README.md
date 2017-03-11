@@ -1,4 +1,4 @@
-**Note: those themes wasn't made by me.**
+**Note: those themes weren't made by me.**
  
 Agent34: https://code.google.com/p/agent34/
  
