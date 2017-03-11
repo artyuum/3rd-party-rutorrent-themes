@@ -6,6 +6,8 @@ Agent46: https://code.google.com/p/agent46/
  
 OblivionBlue: https://github.com/InAnimaTe/rutorrent-themes/tree/master/OblivionBlue
 
+FlatUI themes: https://github.com/exetico/FlatUI
+
 MaterialDesign: https://github.com/tomcdj71/ruTorrent-MaterialDesign
  
 To use them, you'll need [this plugin](https://code.google.com/p/rutorrent/wiki/PluginTheme).
@@ -29,3 +31,23 @@ To use them, you'll need [this plugin](https://code.google.com/p/rutorrent/wiki/
 ------------------------------
 * cd /var/www/rutorrent/plugins/theme/themes
 * svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/MaterialDesign
+
+[FlatUI_Dark](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png)
+------------------------------
+* cd /var/www/rutorrent/plugins/theme/themes
+* svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Dark
+
+[FlatUI_Light](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Light.png)
+------------------------------
+* cd /var/www/rutorrent/plugins/theme/themes
+* svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Light
+
+[FlatUI_Material](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Material.png)
+------------------------------
+* cd /var/www/rutorrent/plugins/theme/themes
+* svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Material
+
+[QuickBox-Dark](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/QuickBox-Dark.png)
+------------------------------
+* cd /var/www/rutorrent/plugins/theme/themes
+* svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/QuickBox-Dark
