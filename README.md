@@ -9,6 +9,8 @@ OblivionBlue: https://github.com/InAnimaTe/rutorrent-themes/tree/master/Oblivion
 FlatUI themes: https://github.com/exetico/FlatUI
 
 MaterialDesign: https://github.com/tomcdj71/ruTorrent-MaterialDesign
+
+QuickBox-Dark: https://github.com/JMSDOnline/QuickBox/tree/master/plugins
  
 To use them, you'll need [this plugin](https://code.google.com/p/rutorrent/wiki/PluginTheme).
  
