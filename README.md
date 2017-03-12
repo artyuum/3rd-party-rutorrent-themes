@@ -1,4 +1,4 @@
-**Note: those themes weren't made by me.**
+**The main purpose of this repo is to list the 3rd-party ruTorrent themes, I'm not going to always keep them up to date so here are the source links (in case you want a newer version) :**
  
 Agent34: https://code.google.com/p/agent34/
  
@@ -12,7 +12,7 @@ MaterialDesign: https://github.com/tomcdj71/ruTorrent-MaterialDesign
 
 QuickBox-Dark: https://github.com/JMSDOnline/QuickBox/tree/master/plugins
  
-To use them, you'll need [this plugin](https://code.google.com/p/rutorrent/wiki/PluginTheme).
+To use them, you'll need [this plugin](https://github.com/Novik/ruTorrent/wiki/PluginTheme).
  
 [Agent34](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png)
 ------------------------
