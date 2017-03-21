@@ -14,7 +14,7 @@ I decided to create this repo because the pre-installed ruTorrent themes are not
 
 * [MaterialDesign](https://github.com/tomcdj71/ruTorrent-MaterialDesign)
 
-* [QuickBox-Dark](https://github.com/JMSDOnline/QuickBox/tree/master/plugins)
+* [club-QuickBox](https://github.com/QuickBox/club-QuickBox)
 
 ## Requirements
  
@@ -66,10 +66,10 @@ $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Material
 ```
  
-**QuickBox-Dark** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/QuickBox-Dark.png)
+**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/club-QuickBox.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/QuickBox-Dark
+$ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/club-QuickBox
 ```
 
 ## Contributing
