@@ -20,7 +20,7 @@ I decided to create this repo because the pre-installed ruTorrent themes are not
  
 * [ruTorrent](https://github.com/Novik/ruTorrent)
 * [Plugin: Theme](https://github.com/Novik/ruTorrent/wiki/PluginTheme)
-* subversion (apt-get install subversion)
+* subversion: `apt-get install subversion`
 
 ## Installation
  
