@@ -2,7 +2,7 @@
 I decided to create this repo because the pre-installed ruTorrent themes are not very good looking and sometimes it's hard to find more 3rd party themes.
 
 ## Source
-**The main purpose of this repo is to list the 3rd-party ruTorrent themes, I'm not going to always keep them up-to-date so here are the source links (in case you want a newer version) :**
+**The main purpose of this repo is to list the 3rd-party ruTorrent themes, I'm not going to always keep them up-to-date so here are the source links (in case you'd want a newer version) :**
  
 * [Agent34](https://code.google.com/p/agent34/)
  
