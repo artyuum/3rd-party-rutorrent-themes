@@ -185,9 +185,11 @@ div#CatList ul li {padding: 2px 25px; margin: 0; line-height: 14px; font-size: 1
 #-_-_-iac-_-_-:before{content: "\f250";}
 #-_-_-err-_-_-:before{content: "\f06a";}
 div#CatList ul li.RSS:before{content:"\f09e";}
+div#CatList ul li.disRSS:before{content:"\f127";  margin-right: 9px;}
+div#CatList ul li.RSSGroup:before{content:"\f143"; margin-right: 9px;}
 
 div#CatList ul li.RSS {background:none;}
-div#CatList ul li.disRSS {background-image: url(images/tstatus.png); background-position: 4px -190px}
+div#CatList ul li.RSS,div#CatList ul li.disRSS,div#CatList ul li.RSSGroup  {background:none!important;}
 
 /* Adding FontAwesome to Stablelist */
 .stable-icon {background:none;}
