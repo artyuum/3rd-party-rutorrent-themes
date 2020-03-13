@@ -24,49 +24,49 @@ I decided to create this repo because the pre-installed ruTorrent themes are not
 
 ## Installation
  
-**Agent34** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png)
+**Agent34** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/agent34.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/Agent34
 ```
  
-**Agent46** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent46.png)
+**Agent46** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/agent46.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/Agent46
 ```
  
-**OblivionBlue** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/oblivionblue.png)
+**OblivionBlue** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/oblivionblue.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/OblivionBlue
 ```
  
-**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/materialdesign.jpg)
+**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/materialdesign.jpg)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/MaterialDesign
 ```
  
-**FlatUI_Dark** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png)
+**FlatUI_Dark** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/FlatUI_Dark.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Dark
 ```
  
-**FlatUI_Light** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Light.png)
+**FlatUI_Light** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/FlatUI_Light.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Light
 ```
  
-**FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Material.png)
+**FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/FlatUI_Material.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/FlatUI_Material
 ```
  
-**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/club-QuickBox.png)
+**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/club-QuickBox.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ svn co https://github.com/ArtyumX/ruTorrent-Themes/trunk/club-QuickBox
